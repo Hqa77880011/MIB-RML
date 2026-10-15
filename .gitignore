@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+outputs/
+*.npz
+*.npy
+*.pt
+*.pkl
+*.pdf
+*.tex
+*.bib
+.env*
